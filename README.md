@@ -4,8 +4,7 @@
 Hi, I'm **Sandhya K**, a passionate **Final-Year Computer Science Engineering Student** with expertise in **Web Development, Data Analytics, UI/UX Design, and Problem-Solving**. I love building innovative projects that make a difference!
 
 ## 🚀 Live Portfolio
-🔗 **View my portfolio here:** [https://Sandhyakaruna.github.io/my-portfolio/](https://Sandhyakaruna.github.io/my-portfolio/)  
-🔗 **Deployed link :** [https://my-portfolio-one-kappa-37.vercel.app/](https://my-portfolio-one-kappa-37.vercel.app/)
+🔗 **View my portfolio here:** [https://my-portfolio-one-kappa-37.vercel.app/](https://my-portfolio-one-kappa-37.vercel.app/)
 
 ## 💼 Skills
 - **Programming:** Java, HTML, CSS
